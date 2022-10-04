@@ -37,6 +37,7 @@ const Pokemon = () => {
     };
     // call our fetch pokemon
     fetchPokemon();
+    console.log("------------------> The Component Mounted ------------>");
   }, []);
   // What's return is what is going to display on the screen when the component is called
   // If we wanted to list or render all the pokemon fetched from our we use map and pass them down as props to our single pokemon component
