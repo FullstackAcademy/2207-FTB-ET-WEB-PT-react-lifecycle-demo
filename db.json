@@ -2,6 +2,31 @@
     "pokemon": [
       {
         "id": 1,
+        "name": "Bulbasar",
+        "number": 1,
+        "type": "Grass",
+        "type2": "Poison",
+        "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png"
+      },
+      {
+        "id": 2,
+        "name": "Charmander",
+        "number": 4,
+        "type": "Fire",
+        "type2": "Fire",
+        "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png"
+      },
+      {
+        "id": 3,
+        "name": "Squirtle",
+        "number": 7,
+        "type": "Water",
+        "type2": "Water",
+        "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/007.png"
+      },
+    {
+
+        "id": 4,
         "name": "Garchomp",
         "number": 445,
         "type1": "Dragon",
@@ -9,7 +34,7 @@
         "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/445.png"
       },
       {
-        "id": 2,
+        "id": 5,
         "name": "Umbreon",
         "number": 197, 
         "type1": "Dark",
@@ -17,7 +42,7 @@
         "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/197.png"
       },
       {
-        "id": 3,
+        "id": 6,
         "name": "Sylveon",
         "number": 700,
         "type1": "Fairy",
@@ -25,7 +50,7 @@
         "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/700.png"
       },
       {
-        "id": 4,
+        "id": 7,
         "name": "Lucario",
         "number": 448,
         "type1": "Fighting",
