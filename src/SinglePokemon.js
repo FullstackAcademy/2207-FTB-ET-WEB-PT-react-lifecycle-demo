@@ -4,16 +4,18 @@ const SinglePokemon = ({ imgUrl, name, number, type1, type2 }) => {
   return (
     <div>
       <img src={imgUrl} />
-      <h2>{name}</h2>
-      <br />
-      <b>{name}</b>
-      <br />
-      <b>{number}</b>
-      <br />
-      <b>{type1}</b>
-      <br />
-      <b>{type2}</b>
-      <br />
+      <p>
+        <b>Name:</b> {name}{" "}
+      </p>
+      <p>
+        <b>Number:</b> {number}{" "}
+      </p>
+      <p>
+        <b>Type 1:</b> {type1}{" "}
+      </p>
+      <p>
+        <b>Type 2:</b> {type2}{" "}
+      </p>
     </div>
   );
 };
