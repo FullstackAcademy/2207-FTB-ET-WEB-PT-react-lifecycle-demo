@@ -21,7 +21,7 @@ For this demo, we will be using [`Pokemon API`](https://pokeapi.co/). This will 
 
 ## Feature Set
 
-To get a list of the features and implementation details of this demo to try on your own, go [here](https://hackmd.io/@2ctk-Q4uQAmhb4qw1GghPA/S1Fl3OWed)
+To get a list of the features and implementation details of this demo to try on your own, go [here](https://hackmd.io/@rIwHnhEJTmmcE3kJJ7Joig/rJV56z9Mi)
 
 ## To Run
 
