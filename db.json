@@ -4,7 +4,7 @@
         "id": 1,
         "name": "Bulbasar",
         "number": 1,
-        "type": "Grass",
+        "type1": "Grass",
         "type2": "Poison",
         "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png"
       },
@@ -12,7 +12,7 @@
         "id": 2,
         "name": "Charmander",
         "number": 4,
-        "type": "Fire",
+        "type1": "Fire",
         "type2": "Fire",
         "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png"
       },
@@ -20,7 +20,7 @@
         "id": 3,
         "name": "Squirtle",
         "number": 7,
-        "type": "Water",
+        "type1": "Water",
         "type2": "Water",
         "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/007.png"
       },

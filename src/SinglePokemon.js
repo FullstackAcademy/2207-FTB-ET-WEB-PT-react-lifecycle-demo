@@ -5,16 +5,16 @@ const SinglePokemon = ({ imgUrl, name, number, type1, type2 }) => {
     <div>
       <img src={imgUrl} />
       <p>
-        <b>Name:</b> {name}{" "}
+        <b>Name:</b> {name}
       </p>
       <p>
-        <b>Number:</b> {number}{" "}
+        <b>Number:</b> {number}
       </p>
       <p>
-        <b>Type 1:</b> {type1}{" "}
+        <b>Type 1:</b> {type1}
       </p>
       <p>
-        <b>Type 2:</b> {type2}{" "}
+        <b>Type 2:</b> {type2}
       </p>
     </div>
   );
