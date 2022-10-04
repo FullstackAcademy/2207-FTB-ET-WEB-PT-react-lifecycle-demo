@@ -25,6 +25,6 @@ To get a list of the features and implementation details of this demo to try on 
 
 ## To Run
 
-Fork and clone this repo and `npm install` just a disclaimer: I Highly encouraged that you `git checkout end` to get the end point and follow along while taking notes instead of trying to type along with me from the starting point.
+Fork and clone this repo and `npm install` just a disclaimer: I highly encouraged that you `git checkout end` to get the end point and follow along while taking notes instead of trying to type along with me from the starting point.
 
 Then run, `npm run dev`
