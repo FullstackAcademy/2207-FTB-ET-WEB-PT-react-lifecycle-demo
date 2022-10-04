@@ -1,1 +1,9 @@
-# 2207-FTB-ET-WEB-PT-react-lifecycle-demo
+# React Lifecycle
+
+## About 
+
+We will learn about the component 
+
+
+** In this demo, we will be going over**:
+-- useEffect hook 
